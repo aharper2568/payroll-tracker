@@ -13,7 +13,7 @@ const collectEmployees = function () {
     let salaryInput = prompt("Enter employee's salary:");
 
    
-
+    let salary = isNaN(salaryInput) ? 0 : Number(salaryInput);
 
     employees.push({
       firstName: firstName,
