@@ -33,7 +33,7 @@ const displayAverageSalary = function (employeesArray) {
   let totalSalary = 0;
 // using for of lets the function run without breaking the add employees button
   for (const employee of employeesArray) {
-    totalSalary += (employee.salary);
+    totalSalary += Math.round(employee.salary); //Either Math.round or parseFloat works here to grab the right numbers.
   }
 
   const averageSalary = totalSalary / employeesArray.length;
