@@ -12,7 +12,7 @@ const collectEmployees = function () {
     const lastName = prompt('Last Name');
     let salaryInput = prompt("Enter employee's salary:");
 
-
+// Using ternary operator to check if salary input is a number, if not set it to 0
     let salary = isNaN(salaryInput) ? 0 : Number(salaryInput);
 
     employees.push({
@@ -44,10 +44,11 @@ const displayAverageSalary = function (employeesArray) {
 // Select a random employee
 const getRandomEmployee = function (employeesArray) {
 
+  // To generate a random employee, a random index within the array is needed  
   const randomIndex = Math.floor(Math.random() * employeesArray.length);
-
+ // Grab the random employee 
   const randomEmployee = employeesArray[randomIndex];
-
+ // Show the employee in console log
   console.log(`Random Employee: ${randomEmployee.firstName} ${randomEmployee.lastName}`);
 }
 
