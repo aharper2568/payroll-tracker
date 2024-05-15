@@ -33,12 +33,12 @@ const displayAverageSalary = function (employeesArray) {
   let totalSalary = 0;
 // using for of lets the function run without breaking the add employees button
   for (const employee of employeesArray) {
-    totalSalary += Math.round(employee.salary); //Either Math.round or parseFloat works here to grab the right numbers.
+    totalSalary += Math.round(employee.salary); //Either Math.round or parseFloat works here to grab the right
   }
 
   const averageSalary = totalSalary / employeesArray.length;
 
-  console.log(`Average Salary: ${averageSalary.toFixed(2)}`);
+  console.log(`Average Salary: ${averageSalary.toFixed(2)}, Number of Employees: ${employeesArray.length}`);
 };
 
 // Select a random employee
