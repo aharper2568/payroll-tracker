@@ -10,3 +10,6 @@ Once the first set of information is entered, a prompt will appear asking if the
 
 Opening the console log will show the number of employees, the average salary between them, and the name of a randomly chosen employee.
 
+## URLs
+[Live URL](https://aharper2568.github.io/payroll-tracker/) \
+[Github Repo](https://github.com/aharper2568/payroll-tracker)
