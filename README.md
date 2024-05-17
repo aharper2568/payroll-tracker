@@ -20,3 +20,7 @@ Opening the console log will show the number of employees, the average salary be
 
 ## Author
 Code line 5 through 53 contributed by **Anthony Harper** in VScode
+
+[For of loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+
+[Math.round method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round)
