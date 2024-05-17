@@ -13,3 +13,10 @@ Opening the console log will show the number of employees, the average salary be
 ## URLs
 [Live URL](https://aharper2568.github.io/payroll-tracker/) \
 [Github Repo](https://github.com/aharper2568/payroll-tracker)
+
+## Screenshots
+![Prompts with instructions](./images/screen2.png)
+![Results of prompts on page](./images/Screen1.png)
+
+## Author
+Made by **Anthony Harper** in VScode
