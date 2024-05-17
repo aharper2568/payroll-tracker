@@ -18,8 +18,10 @@ Opening the console log will show the number of employees, the average salary be
 ![Prompts with instructions](./images/screen2.png)
 ![Results of prompts on page](./images/Screen1.png)
 
-## Author
-Code line 5 through 53 contributed by **Anthony Harper** in VScode
+## Author/Contributors
+Code lines 5 through 53 contributed by **Anthony Harper** in VScode
+
+Code lines 33 to 53 were significantly improved by Xpert Learning Assistant
 
 [For of loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
 
