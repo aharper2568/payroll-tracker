@@ -19,4 +19,4 @@ Opening the console log will show the number of employees, the average salary be
 ![Results of prompts on page](./images/Screen1.png)
 
 ## Author
-Made by **Anthony Harper** in VScode
+Code line 5 through 53 contributed by **Anthony Harper** in VScode
